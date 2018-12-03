@@ -8,7 +8,7 @@ import java.util.function.Predicate;
 import java.util.stream.Collectors;
 import java.util.IntSummaryStatistics;
 
-public class Java8REStream {
+public class Java8LambdaExpressionStream {
 
 	public static void main(String[] args) {
 		
